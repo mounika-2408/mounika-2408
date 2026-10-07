@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Mounika 👋
 
-<!--
-**mounika-2408/mounika-2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year B.E. student in Artificial Intelligence & Machine Learning (AI/ML) 🏫 Sapthagiri NPS University, Bengaluru
 
-Here are some ideas to get you started:
+🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year AI/ML student who is curious about how machines learn and make decisions. I'm at the beginning of my journey, learning the fundamentals, building small projects, and pushing myself to improve every day.
+
+🔭 Currently Learning
+🐍 Python programming
+📊 Basics of data analysis (NumPy, Pandas)
+🤖 Introduction to Machine Learning
+🧮 Mathematics for AI (Linear Algebra, Probability, Statistics)
+🌐 Git & GitHub
+🎯 Goals
+Build beginner-friendly ML projects
+Learn Data Structures & Algorithms
+Contribute to open-source projects
+Participate in hackathons and coding competitions
